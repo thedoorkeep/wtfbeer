@@ -121,6 +121,8 @@ $(function() {
             "sovereign",
             "spalter select",
             "summit",
+            "sovereign",
+            "spalter select",
             "tahoma",
             "target",
             "tettnang",
